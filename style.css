@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#banner{
+    width: 2000px;
+    height: 300px;
+}
+
+#menu{
+    font-family: 'Bebas Neue', sans-serif;
+    padding-top: 100px;
+    padding-left: 800px;
+}
+
+i{
+    margin-left: 50px;
+    padding-left: 30px;
+}
+
+#icons{
+    margin-top: 50px;
+    margin-left: 680px;
+}
+
+#boton{
+    text-decoration: none;
+    color: black;
+}
+
+#TituloSobreMi{
+    text-align: center;
+    margin-bottom: 80px;
+    background-color: antiquewhite;
+}
+
+.divInfo{
+    padding-left: 50px;
+}
+
+#botonRegresar{
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#divEstudios{
+    background-color: antiquewhite;
+}
+
+#divPersonal{
+    background-color: antiquewhite;
+}
+
+#divMotivaciones{
+    background-color: antiquewhite;
+}
